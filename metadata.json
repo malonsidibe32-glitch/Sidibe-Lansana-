@@ -1,0 +1,8 @@
+{
+  "name": "La Force du Silence",
+  "description": "Une mise en scène interactive et un simulateur de l'histoire d'Awa et Moussa chez SolarisTech, illustrant la valeur invisible et cruciale des employés discrets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
